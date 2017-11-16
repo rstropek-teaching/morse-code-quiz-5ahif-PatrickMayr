@@ -1,0 +1,27 @@
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Console\bin\Debug\Morse.Console.exe.config
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Console\bin\Debug\Morse.Console.exe
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Console\bin\Debug\Morse.Console.pdb
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Console\bin\Debug\Morse.Library.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Console\bin\Debug\Morse.Library.pdb
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.exe
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Console\bin\Debug\Morse.Console.exe.config
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Console\bin\Debug\Morse.Console.exe
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Console\bin\Debug\Morse.Console.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Console\bin\Debug\Morse.Library.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Console\bin\Debug\Morse.Library.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.csprojResolveAssemblyReference.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.csproj.CoreCompileInputs.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.exe
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Console\bin\Debug\Morse.Console.exe.config
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Console\bin\Debug\Morse.Console.exe
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Console\bin\Debug\Morse.Console.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Console\bin\Debug\Morse.Library.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Console\bin\Debug\Morse.Library.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.csprojResolveAssemblyReference.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.csproj.CoreCompileInputs.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.exe
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Console\obj\Debug\Morse.Console.pdb

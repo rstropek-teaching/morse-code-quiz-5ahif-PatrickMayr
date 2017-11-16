@@ -1,0 +1,57 @@
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.deps.json
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.runtimeconfig.json
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.runtimeconfig.dev.json
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.pdb
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Library.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Library.pdb
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.AssemblyInfoInputs.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.AssemblyInfo.cs
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.pdb
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Console.exe
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Console.pdb
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Console.exe.config
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.deps.json
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.runtimeconfig.json
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.runtimeconfig.dev.json
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Console.exe
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Library.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Console.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Console.exe.config
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Library.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.csprojResolveAssemblyReference.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.csproj.CoreCompileInputs.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.AssemblyInfoInputs.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.AssemblyInfo.cs
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.deps.json
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.runtimeconfig.json
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.runtimeconfig.dev.json
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Test.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Console.exe
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Library.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Console.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Console.exe.config
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\bin\Debug\netcoreapp2.0\Morse.Library.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.csprojResolveAssemblyReference.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.csproj.CoreCompileInputs.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.AssemblyInfoInputs.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.AssemblyInfo.cs
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseDecoder\Morse.Test\obj\Debug\netcoreapp2.0\Morse.Test.pdb

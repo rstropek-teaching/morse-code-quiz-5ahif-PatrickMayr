@@ -1,0 +1,12 @@
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Library\bin\Debug\Morse.Library.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Library\bin\Debug\Morse.Library.pdb
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Library\obj\Debug\Morse.Library.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Library\obj\Debug\Morse.Library.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Library\obj\Debug\Morse.Library.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\MorseCode\MorseDecoder\Morse.Library\obj\Debug\Morse.Library.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Library\bin\Debug\Morse.Library.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Library\bin\Debug\Morse.Library.pdb
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Library\obj\Debug\Morse.Library.csprojResolveAssemblyReference.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Library\obj\Debug\Morse.Library.csproj.CoreCompileInputs.cache
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Library\obj\Debug\Morse.Library.dll
+D:\Htl\5AHIF\C#\Git_03_Morse\MorseCode\MorseDecoder\Morse.Library\obj\Debug\Morse.Library.pdb
